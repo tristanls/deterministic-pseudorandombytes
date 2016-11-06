@@ -1,0 +1,17 @@
+{
+  "name": "deterministic-pseudorandombytes",
+  "version": "0.0.0",
+  "description": "crypto.randomBytes() API compatible deterministic pseudorandom implementation",
+  "main": "index.js",
+  "dependencies": {
+    "random-seed": "0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tristanls/deterministic-pseudorandombytes.git"
+  },
+  "contributors": [
+    "Tristan Slominski <tristan.slominski@gmail.com>"
+  ],
+  "license": "MIT"
+}
