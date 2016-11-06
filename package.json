@@ -1,6 +1,6 @@
 {
   "name": "deterministic-pseudorandombytes",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "crypto.randomBytes() API compatible deterministic pseudorandom implementation",
   "main": "index.js",
   "dependencies": {
